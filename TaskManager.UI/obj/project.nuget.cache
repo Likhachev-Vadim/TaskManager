@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFwqkbS9WyQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dobva\\source\\repos\\TaskManager\\TaskManager.UI\\TaskManager.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dobva\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
